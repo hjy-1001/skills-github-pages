@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
 ---
-- A great journy shall start here!
+- A great journey shall start here!
+
 
